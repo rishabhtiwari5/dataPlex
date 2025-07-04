@@ -160,6 +160,28 @@ a {
 	text-decoration: none;
 }
 
+
+.contact__image {
+	width: 50px;
+}
+
+.contact__image img {
+	width: 100%;
+	border: 3px solid var(--selective-blue);
+	aspect-ratio: 1 / 1;
+	object-fit: cover;
+	object-position: center;
+	border-radius: var(--radius-circle);
+}
+
+.contact_name {
+	color: #3c3f3f;
+	font-size: 1.25rem;
+	text-align: center;
+	font-weight: 600;
+}
+
+
 button {
 	background: none;
 	border: none;
@@ -271,25 +293,7 @@ i {
 	column-gap: 12px;
 }
 
-.contact__image {
-	width: 50px;
-}
 
-.contact__image img {
-	width: 100%;
-	border: 3px solid var(--selective-blue);
-	aspect-ratio: 1 / 1;
-	object-fit: cover;
-	object-position: center;
-	border-radius: var(--radius-circle);
-}
-
-.contact_name {
-	color: #3c3f3f;
-	font-size: 1.25rem;
-	text-align: center;
-	font-weight: 600;
-}
 
 .contact_title {
 	font-size: 11px;
