@@ -1,6 +1,6 @@
 # Contact Management Application
 
-This is a full-stack web application for efficient management of people-related data. The backend is built with Java and Spring Boot, providing a RESTful API, and the frontend is a responsive application built with React.
+This is a full-stack web application for efficient people information management. The backend is built with Java and Spring Boot, providing a RESTful API, and the frontend is a responsive application built with React.
 
 ## Features
 
